@@ -4,7 +4,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Sou Desenvolvedor FullStack. </p>
 <p> - 👨‍🎓 Estudante de Engenharia de Software, cursando 3° semestre atualmente. </p>
-<p> - 🎯 Interesse: API restfull, React, Nodejs, Typescript, Docker, AWS . </p>
+<p> - 🎯 Interesses: React, Vue, Next, Nuxt, Nest, Typescript, Docker, AWS . </p>
 
 </div>
 
