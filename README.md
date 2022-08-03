@@ -3,7 +3,7 @@
   ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Sou Desenvolvedor FullStack. </p>
-<p> - 👨‍🎓 Estudante de Engenharia de Software, cursando 3° semestre atualmente. </p>
+<p> - 👨‍🎓 Estudante de Engenharia de Software, cursando 4° semestre atualmente. </p>
 <p> - 🎯 Interesses: React, Next, Nest, Jext, Typescript, Docker, AWS . </p>
 
 </div>
