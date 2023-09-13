@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/eu-taua">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eu-taua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-taua&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/taua-avelar">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taua-avelar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taua-avelar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -46,8 +46,8 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taua-avelar">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/eu-taua">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/eu-taua">
+      <a href="https://github.com/taua-avelar">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/taua-avelar">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:taua.a@icloud.com">
